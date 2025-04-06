@@ -20,7 +20,7 @@ This repository serves as an official public record to prove the authorship of *
   [`sha256.txt`](https://bafybeidnlxfs3xac2pf6fggvnqqwe5broy5uiug2cklkshnch74r22axta.ipfs.w3s.link/sha256.txt)
 
 - 🗃️ GitHub Repository for the main project:  
-  [`https://github.com/Reltroner/Reltroner`](https://github.com/Reltroner/Reltroner) *(WIP)*
+  [`reltroner-studio.git`](https://github.com/Reltroner/reltroner-studio.git)
 
 ## 🧾 Legal Use & Licensing
 
