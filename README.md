@@ -14,10 +14,10 @@ This repository serves as an official public record to prove the authorship of *
 ## 🌐 Public Links (IPFS & GitHub Proofs)
 
 - 📄 PDF on IPFS:  
-  [`https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap2317apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf`](https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap2317apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf)
+  [`reltroner-studio-legal-declaration.pdf`](https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap23l7apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf)
 
 - 🔐 SHA256 proof on IPFS:  
-  [`https://bafybeidnlxfs3xac2pf6fggvnqqwe5broy5uiug2cclkshnch74r22axta.ipfs.w3s.link/sha256.txt`](https://bafybeidnlxfs3xac2pf6fggvnqqwe5broy5uiug2cclkshnch74r22axta.ipfs.w3s.link/sha256.txt)
+  [`sha256.txt`](https://bafybeidnlxfs3xac2pf6fggvnqqwe5broy5uiug2cklkshnch74r22axta.ipfs.w3s.link/sha256.txt)
 
 - 🗃️ GitHub Repository for the main project:  
   [`https://github.com/Reltroner/Reltroner`](https://github.com/Reltroner/Reltroner) *(WIP)*
