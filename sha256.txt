@@ -1,0 +1,8 @@
+PS C:\Users\Reltropolis\Downloads> Get-FileHash "reltroner-studio-legal-declaration.pdf" -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          6ED0231704239170D98398B7A77773727CD78E0384305C7FB6093E738787E154       C:\Users\Reltropolis\Download...
+
+
+PS C:\Users\Reltropolis\Downloads>
